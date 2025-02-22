@@ -33,8 +33,17 @@
   ![image](https://github.com/user-attachments/assets/07d6aba9-d42a-4899-af04-cb83df744cce)
 
 # For Mobile View
-![image](https://github.com/user-attachments/assets/99b5cbba-87cf-42b0-b031-690d818f23f3)
+
+- Admin Login Page
+![image](https://github.com/user-attachments/assets/49083b0e-caa5-49ec-b704-3b3a4a0c4250)
+
+- Dashboard Page
+![image](https://github.com/user-attachments/assets/dbd391cc-0b17-46a8-84bd-a1811adad9f4)
+
+- Property Page
 ![image](https://github.com/user-attachments/assets/09a8d67f-cb3e-4f8f-bb64-6b2f146ed5e8)
+
+- Transaction Page
 ![image](https://github.com/user-attachments/assets/48b56e70-44d6-4196-8537-2c4581445164)
 
 
